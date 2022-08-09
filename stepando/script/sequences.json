@@ -8,11 +8,6 @@ var seq_en_JSON = [
 
 var seq_es_JSON = [
   {
-    "category": "Construcción",
-    "title": "Precios de partidas de obra",
-    "adress": "construction:preciosconstruccion"
-    },
-  {
     "category": "Conversores",
     "title": "Conversor de unidades",
     "adress": "conversors:conversor"
@@ -21,11 +16,6 @@ var seq_es_JSON = [
     "category": "Estática",
     "title": "Calcular una viga de acero",
     "adress": "static:vigaacero"
-    },
-  {
-    "category": "Estática",
-    "title": "Calcular una viga de hormigón",
-    "adress": "static:vigahormigon"
     },
   {
     "category": "Estática",
